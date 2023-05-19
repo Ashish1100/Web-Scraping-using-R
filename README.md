@@ -13,3 +13,5 @@ The steps include:
 5. Identifying the HTML elements.
 6. Processing and cleaning the data.
 7. Analyzing the data.
+
+##### iphone's "title", "ratings", and "cost" is analyzed.
