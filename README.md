@@ -15,3 +15,6 @@ The steps include:
 7. Analyzing the data.
 
 ##### --> iphone's "title", "ratings", and "cost" is analyzed.
+
+
+### IDLE Screenshots:
