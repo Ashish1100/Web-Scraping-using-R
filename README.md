@@ -14,4 +14,4 @@ The steps include:
 6. Processing and cleaning the data.
 7. Analyzing the data.
 
-##### iphone's "title", "ratings", and "cost" is analyzed.
+--> ##### iphone's "title", "ratings", and "cost" is analyzed.
