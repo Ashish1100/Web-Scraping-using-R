@@ -19,3 +19,7 @@ The steps include:
 
 #### IDLE Screenshots:
 
+
+![Screenshot (3408)](https://github.com/Ashish1100/Web-Scraping-using-R-/assets/97810143/d0226232-3a20-4513-93f9-98ecce07d1d1)
+![Screenshot (3409)](https://github.com/Ashish1100/Web-Scraping-using-R-/assets/97810143/ae205853-d26e-4f33-a92c-41164ea5be17)
+![Screenshot (3410)](https://github.com/Ashish1100/Web-Scraping-using-R-/assets/97810143/d4c3b7f1-3815-469d-a527-dcc2af4bcd87)
