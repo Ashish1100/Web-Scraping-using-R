@@ -5,7 +5,7 @@ The automatic extraction of data from websites is known as web scraping. It enta
 
 Here, Amazon iphone data is scrapped to analyze.
 
-The steps includes:
+The steps include:
 1. Installing and loading the required packages in R ("rvest" package).
 2. Sending an HTTP request.
 3. Extracting HTML content.
