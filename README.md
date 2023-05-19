@@ -4,6 +4,7 @@
 The automatic extraction of data from websites is known as web scraping. It entails programming code to access and extract data from online sites, often in a structured format like HTML or JSON. Numerous uses for this data are possible, including data analysis, research, and application development.
 
 Here, Amazon iphone data is scrapped to analyze.
+
 The steps includes:
 1. Installing and loading the required packages in R ("rvest" package).
 2. Sending an HTTP request.
