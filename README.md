@@ -1,5 +1,5 @@
 # Web-Scraping-using-R
-### The project is to scrap Amazon iphone data using R-programming.
+### The project: Scraping Amazon's iPhone data using R-programming.
 
 The automatic extraction of data from websites is known as web scraping. It entails programming code to access and extract data from online sites, often in a structured format like HTML or JSON. Numerous uses for this data are possible, including data analysis, research, and application development.
 
